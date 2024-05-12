@@ -1,0 +1,11 @@
+[package]
+name = "pickler"
+version = "0.1.0"
+edition = "2021"
+authors = ["Paresh Saxena <pareshsaxena@gmail.com>"]
+readme = "README.md"
+license = "MIT"
+description = "command line tool for backing up data on the cloud"
+
+[dependencies]
+clap = "4.5.4"
